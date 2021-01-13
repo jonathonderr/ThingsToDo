@@ -1,0 +1,57 @@
+     _______.___________.    ___      .______     .___________.    __    __   _______ .______       _______  __  
+    /       |           |   /   \     |   _  \    |           |   |  |  |  | |   ____||   _  \     |   ____||  | 
+   |   (----`---|  |----`  /  ^  \    |  |_)  |   `---|  |----`   |  |__|  | |  |__   |  |_)  |    |  |__   |  | 
+    \   \       |  |      /  /_\  \   |      /        |  |        |   __   | |   __|  |      /     |   __|  |  | 
+.----)   |      |  |     /  _____  \  |  |\  \----.   |  |        |  |  |  | |  |____ |  |\  \----.|  |____ |__| 
+|_______/       |__|    /__/     \__\ | _| `._____|   |__|        |__|  |__| |_______|| _| `._____||_______|(__)
+
+
+Hey! Glad you made it!
+
+  The raspberry pi is basically a computer - that is super portable and can do most
+anything (with some limits of course). I've included in the box some components to help
+you get started, including the raspberry pi, the breadboard, and some modules that the gpio
+part of the rpi can use. You can look up the components by model #, but if you want a reference,
+here's what I gave ya.
+
+ - Some m/m pin wires - should be enough to get your breadboard started
+ - Some fm/fm pin wires
+ - A crystal LED panel - if you remember, you helped me solder some parts to it
+ - An ultrasonic range sensor (the component with two speakers) - allows you to detect the distance 
+      from a point in front of the sensor
+ - Thermometer (the component with the blue block)
+ - Number (1-4) selector - sends a signal back through gpio notifying which number was touched
+ - 2 Breadboards - For a guide on breadboarding, take a look at the [Introduction Breadboards for Beginners link]
+      (or just ignore that link if you already know how)
+ - A variety of LEDS - just in case you need them! - They are a variety of colors, so whos to say which colors you got?
+ - Some resistors (I'll let you figure out what strength they are). I don't really expect these to be too useful to
+      you, but hey you never know. They are all the same strength
+
+  You can use these components for a variety of projects, and there are resources online on how to use them, so
+do some googling!
+
+
+ - Documentation
+
+  I don't really expect you to read through all guides I included here. They are really just there to give you a 
+  heads up as to what you MIGHT have to deal with. I included 3 programming guides (Python, Javascript, and NodeJS), 
+  just in case you need to dig deep into some code. Also, hey, they are super cool programming languages anyway, and
+  totally worth learning! Give it a shot if you feel like it! I also included some diagrams that you can reference, but
+  the GPIO diagram [rpi 4 pinout (Useful)] is probably the only useful one.
+
+  Some documentation worth looking for:
+
+    - The majority of the rpi documentation, but especially:
+      - The Usage Guide
+      - The Remote Access guide - very useful if you don't want to dedicate a keyboard and mouse to your pi
+      - Linux - will familarize you with the os. If you use remote access, use the [The Unix Shell] guide I provided
+      - Config stuff, if you need it
+    - Check out some of the python course to begin with, just so you know what you might be getting yourself into
+    - The GPIO pinout diagram - Will come in handy, just make sure you have the orientation correct.
+
+  The raspberry pi came with the OS preinstall (it's on the flash drive on the bottom of the pi), so you don't
+  need to reinstall the OS, but you can if you want to!
+
+  Good luck! I hope you find some project worth using the pi for! As always, ask me if you have any questions, and I'll
+  drop everything to help you! 
+

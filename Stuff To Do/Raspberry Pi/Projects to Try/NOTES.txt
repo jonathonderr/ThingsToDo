@@ -1,0 +1,46 @@
+
+ __   _______   _______     ___           _______. __  
+|  | |       \ |   ____|   /   \         /       ||  | 
+|  | |  .--.  ||  |__     /  ^  \       |   (----`|  | 
+|  | |  |  |  ||   __|   /  /_\  \       \   \    |  | 
+|  | |  '--'  ||  |____ /  _____  \  .----)   |   |__| 
+|__| |_______/ |_______/__/     \__\ |_______/    (__) 
+                                                      
+These projects are here just in case you need some ideas.
+
+I haven't tried all of these (I only have one raspberry pi, and minimal time), but after
+skimming through them, they should all be doable! Some projects are specified for a
+PI 3, 3+ or some other model. Most of the time, since those models all run on the same OS,
+you should be fine. If not, thats just where you'll have to get creative ;).
+
+You'll have to learn some programming for some of these projects! Don't worry, it isn't a
+lot and the guides will walk you through, but if you have questions, feel free to contact me!
+I'm sure I can help figure out at least one problem!
+
+Here are some products I would definitely suggest you try:
+
+ - Pi-hole 
+      This basically turns your raspberry pi into an adblocking service. All you need
+      to set it up is the raspberry pi and your modem/router software.
+      
+      NOTE: Some modems aren't compatible with this software due to ISPS restricting you from
+      change router based DNS servers. There are some workarounds, as mentioned in the link, but 
+      they might not work for new devices connecting to your network
+
+ - Smart Security Camera
+      Pretty self explanitory, adds a security camera to your home. The software used
+      is open-source, which is good if you are paronoid about goverments 
+      and corparations watching you. You'll need to buy some other components, including a 
+      camera module, and some wood for woodworking
+
+ - FM Radio Transmitter
+      Haven't done this one, but it looked cool, and pretty simple to setup, given you 
+      have the right components and software!
+
+ - Homebridge
+      This ones a doozy, so don't try it if you haven't done any other projects yet. It took
+      me a while to scrape through and understand the code, but what it does is allow you to code
+      and create your own smart devices (which you can connect to the iOS' home app). This means that
+      with some fancy coding and computer workarounds, you can probably turn any of these other 
+      projects into a smart device! Again, its a confusing setup, with not a lot of great 
+      documentation, so if you get stuck, contact me!
